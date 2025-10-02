@@ -19,3 +19,4 @@ Input : Cipher text generated at Output of Encryption and Same Key use at encryp
 output : A text which is intially encrypted.
 
 Check ESP32 Simulation for same : https://wokwi.com/projects/443713127353027585
+About ESP32 - Just converted the cpp code in compatible ESP code, check the same fuctionality on using serial monitor.
